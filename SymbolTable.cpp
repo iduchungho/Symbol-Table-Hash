@@ -1,5 +1,7 @@
 #include "SymbolTable.h"
-
+// Created by Duc Hung Ho aka Kane from HCMUT - VNUHCM CSK20
+// form faculty of Computer Science and Engineering
+// Assignment Data structure and Algorithms
 
 bool HashTable::const_number(const string& number) {
     int length = (int)number.length();
